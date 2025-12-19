@@ -1,6 +1,5 @@
-| Software Engineering Enthusiast | Passionate About Building Practical Tech Solutions.<img width="1184" height="42" alt="image" src="https://github.com/user-attachments/assets/bcb32063-9f54-4874-b23b-05b25bef9b24" />
-
-
+Hi there, I’m Sneha 👋
+| Software Engineering Enthusiast | Passionate About Building Practical Tech Solutions.
 
 
 ## 🌐 Socials:
