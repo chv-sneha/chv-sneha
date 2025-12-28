@@ -19,21 +19,34 @@ Software Engineering Enthusiast | Backend & Core CS Focused
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ch-v-sneha-6ba7792a0/" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         width="28" height="28" style="margin-right:12px;" />
+  <a href="https://www.linkedin.com/in/ch-v-sneha-6ba7792a0/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      width="28"
+      height="28"
+      style="display:inline-block; vertical-align:middle; margin-right:12px;"
+    />
   </a>
 
-  <a href="https://medium.com/@chvsneha2310" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-         width="28" height="28" style="margin-right:12px;" />
+  <a href="https://medium.com/@chvsneha2310" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+      width="28"
+      height="28"
+      style="display:inline-block; vertical-align:middle; margin-right:12px;"
+    />
   </a>
 
-  <a href="https://stackoverflow.com/users/32077258" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-         width="28" height="28" />
+  <a href="https://stackoverflow.com/users/32077258" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+      width="28"
+      height="28"
+      style="display:inline-block; vertical-align:middle;"
+    />
   </a>
 </p>
+
 
 ---
 
