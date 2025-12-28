@@ -18,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chv-sneha" target="blank">
+<a href="https://www.linkedin.com/in/ch-v-sneha-6ba7792a0/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://medium.com/@chvsneha" target="blank">
+<a href="https://medium.com/@chvsneha2310" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
 </a>
 <a href="https://stackoverflow.com/users/32077258" target="blank">
