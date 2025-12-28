@@ -35,7 +35,6 @@ Software Engineering Enthusiast | Backend & Core CS Focused
   </a>
 </p>
 
-
 ---
 
 <h3 align="left">🛠️ Technical Skills</h3>
