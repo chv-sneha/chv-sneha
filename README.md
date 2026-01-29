@@ -72,13 +72,13 @@ Software Engineering Enthusiast | Backend & Core CS Focused
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,gcp,aws&theme=dark" />
 </p>
 
-<h4 align="left">CS Fundamentals</h4>
+<!-- <h4 align="left">CS Fundamentals</h4>
 <p align="left">
   🧠 Data Structures & Algorithms &nbsp;&nbsp;
   🖥️ Operating Systems &nbsp;&nbsp;
   🗄️ DBMS &nbsp;&nbsp;
   🌐 Computer Networks
-</p>
+</p> -->
 
 <h4 align="left">Soft Skills</h4>
 <p align="left">
