@@ -12,21 +12,7 @@ Software Engineering Enthusiast | Backend & Core CS Focused
 - 📘 Currently strengthening my foundation in **Data Structures & Algorithms and Backend Development**
 - 💻 Building **backend-driven applications and APIs** with strong software engineering fundamentals
 - 🧠 Comfortable working with **Java, backend systems, and core computer science concepts**
-- ✉️ Reach me at **chvsneha2310@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ch-v-sneha-6ba7792a0/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      width="28"
-      height="28"
-      style="display:inline-block; vertical-align:middle; margin-right:12px;"
-    />
-  </a>
+- ✉️ R
 
   <a href="https://medium.com/@chvsneha2310" target="_blank">
     <img
