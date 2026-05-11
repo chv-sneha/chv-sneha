@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">
-Software Engineering Enthusiast | Backend & Core CS Focused
+Software Engineering Enthusiast | Backend & Core CS Focuse
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
